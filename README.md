@@ -10,7 +10,7 @@ movie book app layout design with basic functionality
 
 3. After the installation of all dependencies and environment setup. 
 
-4. Now, you have to create **`.env`** file into your app/project folder not in **`src`** which you created, open the **`.env`** file and type the line **`REACT_APP_BASEURL=https://api.tvmaze.com/search/shows?q=all" and run command **`npm start`** in terminal.
+4. Now, you have to create **`.env`** file into your app/project folder not in **`src`** which you created, open the **`.env`** file and type the line **`REACT_APP_BASEURL=https://api.tvmaze.com/search/shows?q=all and run command **`npm start`** in terminal.
 
 5. Now your server will start successfully.
 
